@@ -25,3 +25,5 @@ class DuckDuckGoResultPage:
   def title(self):
     # TODO
     return ""
+
+# Hello
